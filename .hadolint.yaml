@@ -1,0 +1,2 @@
+ignored:
+  - DL3041 #Don not want to specify version with `dnf install -y <package>-<version>
