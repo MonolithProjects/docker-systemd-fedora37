@@ -1,6 +1,6 @@
 # Fedora 37 Ansible Test Image
 
-[![GitHub Actions](https://github.com/MonolithProjects/docker-systemd-fedora37/workflows/Dockerfile%20test/badge.svg?branch=master)](https://github.com/MonolithProjects/docker-systemd-fedora37/actions)
+[![Dockerfile test](https://github.com/MonolithProjects/docker-systemd-fedora37/actions/workflows/main.yml/badge.svg)](https://github.com/MonolithProjects/docker-systemd-fedora37/actions/workflows/main.yml)
 [![DockerHub-pulls](https://img.shields.io/docker/pulls/monolithprojects/systemd-fedora37)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora37)
 [![DockerHub-pulls](https://img.shields.io/docker/pulls/monolithprojects/systemd-fedora37)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora37)
 [![DockerHub](https://img.shields.io/docker/image-size/monolithprojects/systemd-fedora37?sort=date)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora37)
